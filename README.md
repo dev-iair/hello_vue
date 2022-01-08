@@ -15,7 +15,7 @@ npm 사용한 Vue.js 설치
     - CLI 설치
         - npm install -g @vue/cli
 
-프로젝트 생서
+프로젝트 생성
 
     - npm init vite-app <project-name>
     - cd <project-name>
